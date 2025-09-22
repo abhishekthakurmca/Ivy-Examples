@@ -36,3 +36,5 @@ _ReSharper*/
 .idea/
 #Nuget packages folder
 packages/
+temp_auto_push.bat
+temp_interactive_push.bat
